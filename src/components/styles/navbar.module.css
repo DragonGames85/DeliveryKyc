@@ -1,0 +1,25 @@
+/* .navbar {
+    margin-top:0;
+    border-bottom: 5px solid #004dff;
+    border-radius: 50px;
+    background-color: #000000;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+.navbar__links {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar__links:hover {
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none;
+}
