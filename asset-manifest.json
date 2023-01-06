@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DeliveryKyc/static/css/main.332eec2f.css",
+    "main.js": "/DeliveryKyc/static/js/main.a290135c.js",
+    "static/media/3142591.png": "/DeliveryKyc/static/media/3142591.46986ded0e1503776b81.png",
+    "static/media/3138225.png": "/DeliveryKyc/static/media/3138225.0a3758c9889d12163b44.png",
+    "static/media/631665.png": "/DeliveryKyc/static/media/631665.5f2eb68d84bf137ab456.png",
+    "index.html": "/DeliveryKyc/index.html",
+    "main.332eec2f.css.map": "/DeliveryKyc/static/css/main.332eec2f.css.map",
+    "main.a290135c.js.map": "/DeliveryKyc/static/js/main.a290135c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332eec2f.css",
+    "static/js/main.a290135c.js"
+  ]
+}
